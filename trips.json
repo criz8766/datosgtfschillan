@@ -269,7 +269,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1254-030e83b",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -297,7 +297,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1200-036c15d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -360,7 +360,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-0949-03e5261",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -633,7 +633,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1227-0593485",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -794,7 +794,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1811-074ea2e",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -1095,7 +1095,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1424-0a53182",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -1424,7 +1424,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1657-0e18d2d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -1837,7 +1837,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1516-11a9cdc",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -1872,7 +1872,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1657-1222b60",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -2131,7 +2131,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0600-148cb56",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -2271,14 +2271,14 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0806-15fe79a",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1603-1619d44",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -2390,7 +2390,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1124-1708899",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -2565,7 +2565,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1532-18b8b5f",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -2894,7 +2894,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-0927-1bad9af",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -2908,7 +2908,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1118-1bb3668",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -3104,7 +3104,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1433-1d610b0",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -3489,7 +3489,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-0800-212d855",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -3580,7 +3580,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-0911-2216352",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -3832,7 +3832,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1106-2482526",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -3965,14 +3965,14 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0954-2572b60",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1349-259e693",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -4077,7 +4077,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1921-265a90e",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -4133,7 +4133,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1833-26d5907",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -4308,7 +4308,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-0857-2820da9",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -4441,7 +4441,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1133-293733b",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -4700,7 +4700,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1244-2b1a985",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -4826,7 +4826,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1614-2c68598",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -4987,7 +4987,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1932-2e3bde0",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -5036,7 +5036,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0851-2e85877",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -5078,14 +5078,14 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1725-2ec23c8",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1104-2ec2f92",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -5183,7 +5183,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1353-2f90528",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -5512,7 +5512,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1600-323327a",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -5526,7 +5526,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1330-3234f13",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -5708,7 +5708,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-0939-33a72ad",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -6058,7 +6058,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1739-375be2e",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -6282,7 +6282,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1807-3991016",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -6793,7 +6793,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1600-3dd829d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -6814,7 +6814,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1706-3df7930",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -7003,14 +7003,14 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1406-3fd774d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1536-3ff4412",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -7087,7 +7087,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1946-41334ad",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -7171,7 +7171,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-0800-41ecd7a",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -7297,7 +7297,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1117-434edb0",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -7458,7 +7458,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1415-4495f65",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -7472,7 +7472,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0645-44cf5c3",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -7500,7 +7500,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1312-44ffa30",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -7556,7 +7556,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1050-45964d4",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -8039,7 +8039,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1827-4a15826",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -8081,7 +8081,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1035-4ab713a",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -8102,7 +8102,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1421-4b5280e",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -8137,7 +8137,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-0822-4bdc446",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -8438,7 +8438,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0927-4dd1dad",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -8711,7 +8711,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1236-4fa10f0",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -8809,7 +8809,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1325-5171c96",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -8837,14 +8837,14 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1612-51d8abb",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1327-51e0bf9",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -9096,7 +9096,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1545-54565f9",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -9551,7 +9551,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0618-585c55f",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -9586,7 +9586,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1733-58c97d2",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -9663,7 +9663,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0748-5971edb",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -9698,7 +9698,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1339-59de83c",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -9768,7 +9768,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-0844-5af77a0",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -10160,7 +10160,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1500-5e93275",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -10377,7 +10377,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1039-6107fe3",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -10489,7 +10489,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1243-61f5820",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -10503,7 +10503,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-0814-620b772",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -10594,7 +10594,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0636-6334d98",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -10755,7 +10755,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1957-6481e5d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -11126,7 +11126,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-0953-68bf2d9",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -11175,7 +11175,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0654-6982e0b",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -11406,7 +11406,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1855-6b67a19",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -11462,14 +11462,14 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1146-6c195e9",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1030-6c30bbf",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -11854,7 +11854,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1715-6fe1ca3",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -11959,14 +11959,14 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1200-714ff83",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1948-7169ac7",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -12043,7 +12043,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1642-71f243d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -12162,7 +12162,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1753-7315ca5",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -12407,7 +12407,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1930-74df948",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -12477,7 +12477,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1339-75aff86",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -12512,7 +12512,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0739-7605f32",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -12554,7 +12554,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0900-7680f2d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -12736,7 +12736,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1821-7801d92",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -12883,7 +12883,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1245-7976c96",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -13114,7 +13114,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1518-7b5ea98",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -13226,7 +13226,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1021-7c2b757",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -13331,7 +13331,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1939-7d052df",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -13373,7 +13373,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1818-7d4af94",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -13534,7 +13534,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1433-7f42bc6",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -13548,7 +13548,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1546-7f7249e",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -13618,7 +13618,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1845-804d1a1",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -13716,7 +13716,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1450-815d792",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -14724,7 +14724,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1835-8b299fd",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -14955,7 +14955,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-0925-8d4efdc",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -15123,7 +15123,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1451-8ec3bb1",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -15137,7 +15137,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1742-8edc4ed",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -15158,7 +15158,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0730-8f2cc73",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -15599,7 +15599,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1509-939bb88",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -15627,7 +15627,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1228-93b8bf2",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -15739,7 +15739,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1007-9487736",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16054,7 +16054,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0824-9798430",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16089,7 +16089,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1538-982886c",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16124,7 +16124,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1411-987a9e5",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16173,7 +16173,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1200-98cfa2b",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16236,7 +16236,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1854-994029e",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16334,7 +16334,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1724-9a90878",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16369,7 +16369,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1706-9aca051",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16390,7 +16390,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1033-9ae375e",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16467,7 +16467,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1639-9be841b",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16481,7 +16481,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0757-9bf7b70",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -16971,7 +16971,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-0843-9fa984b",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -17048,14 +17048,14 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0842-a072732",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0945-a07f783",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -17223,7 +17223,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1011-a24a7b1",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -17356,7 +17356,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-0906-a3903c1",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -17426,7 +17426,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0918-a44324b",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -17447,7 +17447,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1435-a44f390",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -17916,7 +17916,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1809-a81804e",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -18056,7 +18056,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0609-a920bc4",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -18133,7 +18133,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1727-a9b45a4",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -18203,7 +18203,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1257-aaa1f68",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -18266,7 +18266,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1916-aaf7be8",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -18371,7 +18371,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1644-abada54",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -18770,7 +18770,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1621-af13061",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -18987,7 +18987,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1142-b11ef18",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -19015,7 +19015,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0712-b146842",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -19127,7 +19127,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1442-b22d89d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -19267,7 +19267,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1554-b3baef3",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -19344,7 +19344,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1306-b46e17d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -19379,7 +19379,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1630-b50c54c",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -19442,7 +19442,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0627-b5bc834",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -19729,7 +19729,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1622-b881ea9",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -19799,7 +19799,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1912-b94dfe8",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -19925,7 +19925,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1628-baaf40f",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -20058,7 +20058,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1904-bc85816",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -20170,7 +20170,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1504-bd17da4",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -20394,7 +20394,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0833-be93896",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -20443,7 +20443,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1527-bec77ff",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -20457,7 +20457,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1357-bed3939",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -20835,7 +20835,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1518-c1b99a0",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -21087,7 +21087,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1903-c3efb98",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -21129,7 +21129,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1048-c43979a",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -21248,7 +21248,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1311-c4e4813",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -21276,7 +21276,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1407-c4fc77b",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -21367,7 +21367,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1711-c5dbea7",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -21493,7 +21493,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1132-c705b8d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -21640,7 +21640,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1003-c828652",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -21815,7 +21815,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1012-ca6beba",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -21892,7 +21892,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1455-cb2b74c",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -22228,7 +22228,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1218-ce90e95",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -22802,7 +22802,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1214-d4424fe",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -22879,7 +22879,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1021-d4f33f6",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -22949,7 +22949,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1138-d5c40c7",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -23145,7 +23145,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1057-d785c0d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -23180,7 +23180,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1222-d7e92e3",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -23502,7 +23502,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0936-db98dd3",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -23873,7 +23873,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1836-deca4cc",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -23915,7 +23915,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1749-df34b52",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -24020,7 +24020,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1151-e01bbc8",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -24111,7 +24111,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1918-e0f2a02",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -24139,7 +24139,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1648-e11012c",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -24188,14 +24188,14 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-0828-e1c3571",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1303-e1cfb68",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -24475,7 +24475,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0703-e4a9878",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -24622,7 +24622,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0815-e618a4e",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -25322,7 +25322,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1209-ed622c6",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -25651,7 +25651,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1055-f06001d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -25672,7 +25672,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1115-f075b39",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -25833,7 +25833,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1321-f1a9de5",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -25896,7 +25896,7 @@
     "route_id": "468",
     "service_id": "S",
     "trip_id": "Service_Period-Sa-cfc96522-A-IB-1850-f280338",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -26071,7 +26071,7 @@
     "route_id": "468",
     "service_id": "D",
     "trip_id": "Service_Period-Su-cfc96522-A-IB-1938-f40061b",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -26365,7 +26365,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1348-f621d38",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -26386,7 +26386,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1751-f644988",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -26547,7 +26547,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0909-f7cfe2d",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -26827,7 +26827,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-1800-fb0cd6a",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
@@ -26862,7 +26862,7 @@
     "route_id": "468",
     "service_id": "L",
     "trip_id": "Service_Period-Weekday-cfc96522-A-IB-0721-fb5cd33",
-    "shape_id": "cfc96522-A-IB",
+    "shape_id": "linea3_desvio_corte",
     "direction_id": 0
   },
   {
