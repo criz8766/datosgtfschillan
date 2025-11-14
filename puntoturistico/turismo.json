@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nombre": "prueba",
+    "direccion": "prueba",
+    "latitud": -36.62709092967932,
+    "longitud": -72.07513221238007,
+    "categoria": "cafetería",
+    "imagenNombre": "turismo_prueba_1763101520875.png"
+  }
+]
