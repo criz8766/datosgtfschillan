@@ -1,878 +1,1258 @@
 [
   {
-    "stop_id": "P-311",
-    "deleted_at": "2025-11-17T17:36:06.469Z",
+    "stop_id": "P-94",
+    "deleted_at": "2025-11-17T17:44:50.286Z",
     "stop_data": {
-      "stop_id": "P-311",
-      "stop_name": "Av. Vicente Mendéz esq. Diego de Almagro",
-      "stop_lat": -36.598059,
-      "stop_lon": -72.088215
+      "stop_id": "P-94",
+      "stop_name": "Av. Andrés Bello esq. UBB",
+      "stop_lat": -36.602139,
+      "stop_lon": -72.07822
     },
     "archived_stop_times": [
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1106-84a752b",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1436-00db150",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1115-cf5c051",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1007-041d799",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1723-d9176cc",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1505-0520848",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-2017-d8db912",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1636-05886f7",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1618-6a61025",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0909-05af749",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1028-39c8735",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1936-06f12ec",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-2032-bfe1a81",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1625-0799498",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0941-b89d17a",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1259-0824050",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1714-23cc867",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1323-08a5b4d",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0835-8c96d3f",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0900-08cf052",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1857-39f7fc5",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1400-0a12812",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0719-3307b1b",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0936-0afd9f9",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1111-93dd6f2",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1738-0b25e32",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1019-de27867",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-2010-0b8141c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1715-93e8f6d",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1755-0dcd8c8",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1433-01c7b5f",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0812-0f597ad",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1439-bde4721",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1211-10f564e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-0900-bd91d47",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1905-112354c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1155-c681ffe",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1127-11fa976",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1922-ef15e12",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1000-15040ab",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1204-efd4c50",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1424-1699f80",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1811-56ceb23",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0658-16ab14d",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0738-82fb1a5",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1600-1736b55",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0710-94f53dd",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1858-173e34a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0748-e92850d",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1759-18f73e1",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1452-56d3f55",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1826-190827a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1911-6c579a7",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1314-1a1d7fe",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1729-e92164f",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0644-1a434df",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1743-e5c2d83",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1134-1a98430",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1908-5bfd11c",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0624-1b1a1ed",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1539-ce0567d",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1624-1ba1459",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0950-d2a2c32",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1023-1c7bf4d",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1056-e90985e",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1948-1fcf4d9",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1308-d7332e3",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1203-1fd403c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1511-fc5e540",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0724-2201d4a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1344-338863c",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1610-2228941",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1239-6ef779e",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1812-223019b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-2004-f984e77",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0945-2274b04",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1742-adb318d",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1850-22f7e6f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-2039-06207ea",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1836-233052e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0757-bcbd099",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1148-25aeeed",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-2041-1281acb",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0840-26a43ae",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1425-3be3abc",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1512-293374b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1950-8a143c4",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1302-29b5487",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1053-587e4ff",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0952-2a342a9",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-0929-429ae06",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1007-2a419f8",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0922-33bcf66",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0705-2b1d8e0",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1558-2b0d75d",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1550-2c554d1",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1108-82ef4e4",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1309-2c71217",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1926-ca655ef",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0924-2caffe7",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1300-3c69a74",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0700-2ccd185",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1337-08f3a6e",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1024-2d2194c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1810-8d3eb8e",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1519-2f46520",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1617-dc6861d",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1247-32bcee3",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1343-e1e1605",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1346-3315123",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1536-73bb549",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1924-34239c2",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1955-0f85220",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1125-3483f28",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1000-3444e10",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1913-359f07a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0913-fbad750",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0811-3632ba3",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1250-ef9eb08",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0713-3634e88",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1428-9660828",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-2039-36cde61",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0854-d617099",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1336-380e5c5",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1839-f7c5861",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0824-3816ef0",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-0957-c81484c",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1240-38a15f6",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1608-730303e",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1752-38bdb16",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-2013-145d71c",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1054-38dbee3",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1954-c8a0848",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0848-38ff4d7",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1502-c31eaf3",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1541-3b07e1e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1240-57b09ca",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1421-3b3873d",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1825-14c2708",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0936-3bb23c5",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1300-85205a4",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1156-3d01397",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1936-d1a1846",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1934-3deacc6",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0903-34b49ff",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0931-41a55e3",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1700-5a6a0f0",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1141-4244b6c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0825-40985c2",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1821-42468a3",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1453-0a8a5f4",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1124-42a876f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1153-174643e",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1622-42a972a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1751-c3659f2",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1709-4316622",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1047-254443a",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0920-4412e26",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-0915-ea4ec8f",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1701-4569c6d",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1450-d5a37ac",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1243-459e3dc",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1850-f698d16",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1500-4845609",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1212-fbd5fbd",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1811-492f0fe",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1626-613993f",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0804-4aa8abf",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1039-96f4ef8",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0938-4c76a5c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1508-5e5e39f",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1048-4dfac15",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0700-16e0960",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0736-4e3a42a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1839-70d1a88",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1330-4e783d7",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1125-87047ef",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0629-4efc9dc",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1443-ce9cf9a",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0636-4f4f0a0",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1329-15b03d7",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1225-51b7fa2",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1646-63b22b0",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0924-5228ba9",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1246-eb1f419",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1640-52504b0",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1636-863f913",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1120-5503c16",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1134-3edd9b9",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1038-55275ee",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1050-79eecad",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0836-563e4ee",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1907-887d547",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0742-5716139",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1009-d5c0564",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1606-583e4a7",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1935-3f292f7",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0847-597e465",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1801-de81358",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1432-59d6b7d",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1617-a812582",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1814-5d3dd1d",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1828-2ca3842",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0912-5d7b608",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1722-09400fa",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1401-5d81269",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-2018-602ee2b",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1900-5eed84f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1006-e2f8c21",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1612-5fc5788",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1632-a3ef494",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1648-6344b5a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1327-84fbb67",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1520-64208a3",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1848-04332e0",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1927-64215af",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1414-c17fb29",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1236-665c86b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1829-04256ee",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1919-66d3b5c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1645-4cc8c9b",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0749-6838e7f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1221-c4bb498",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1012-686ca33",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1259-b23c1d2",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1036-6d1cb2b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1511-dc16b88",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1603-6d5e4b0",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1037-f2dfbc0",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0612-6f1d769",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1218-9062381",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1316-6f6bb3f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-2046-0718114",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1348-6f75e1e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1133-db23bb8",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1312-7050f5e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1028-6563117",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1429-7113ff5",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-2022-c4c3ddb",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0600-71b9621",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1853-4c0267f",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0747-71e2d76",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1357-f0b7782",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-2025-72366a8",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1318-82d6524",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1407-72745e0",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1122-111e750",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1618-728ec94",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-2032-e415e1a",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1730-737d290",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1533-db0c804",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0916-73f544a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1356-2a6f5cd",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1745-742353a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1820-92060df",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1248-74e3f80",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1733-d35f5b7",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1858-7654bbe",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1411-d390d40",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1224-7690893",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-2051-d391416",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1535-772f720",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1405-60a555c",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-2054-77899c2",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-0900-c315097",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1948-79cf459",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1232-5d294af",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1637-7a2534f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1150-a141e6b",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1848-7af3e7e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1655-dae689b",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0800-7b00af6",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1806-4f6a158",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0818-7cc1f87",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1011-8915fd6",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1700-7f9fc83",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1744-65ed723",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1443-804fe84",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1700-5546028",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1740-80837df",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0844-1e7c466",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1352-80c5cf6",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-2003-f92231d",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1324-8117b1c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1424-fa04bb4",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1556-8246a1c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-0922-a02dee3",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0834-82ac77d",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0931-8149c50",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0902-83c8352",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1555-9fdf107",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0825-84f4653",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1757-3841d7c",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1232-8aaf90b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1315-ff4004f",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1228-8ac83e3",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1945-49a824b",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1014-8c83999",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1933-3850678",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0607-911be69",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1604-49968e2",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1548-935793e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1639-d41ca0c",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1110-936aa34",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1143-928e709",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1254-937ca4b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1520-76a845f",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1716-93b4902",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1202-2bc3304",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1534-93cbd90",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1322-ce66ca9",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1300-93f315c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1231-e1a80bf",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1512-947cb8e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1025-7df18fe",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1527-947d945",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1530-8bd465c",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1417-948bef6",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1916-2da3fd6",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1944-952569b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0816-df5f8b8",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1142-97c8090",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1346-da1fb62",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1807-986c388",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1550-9eac3fa",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-2024-98f350f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1217-593692a",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0953-9a713ce",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1522-2bc014b",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0818-9b12ede",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0807-329d0e1",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1212-9be18f9",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-0943-2bbd7d5",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0735-a0cf5da",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Sa-cfc96522-A-OB-1136-569ce49",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1149-a1dbb97",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1704-0d746d3",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1043-a48deae",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-1549-27e371a",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0849-a4e075b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-1406-23f9308",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1724-a4e7182",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Weekday-cfc96522-A-OB-0729-e969df5",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1448-a5845c1",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       },
       {
-        "trip_id": "Service_Period-Su-cfc96522-A-OB-0944-e197f78",
-        "stop_id": "P-311",
-        "stop_sequence": 11
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-2048-a626f87",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1412-a6f0418",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1549-a7277e3",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1212-a7d4719",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1105-a8635db",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1654-a866a26",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1458-a8e5a04",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-2036-a8e6672",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-2047-a92da2e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0600-a957fc1",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1843-aa1d829",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1345-ab0c569",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1029-abc7e94",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1536-ac24b95",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-2000-ace11ad",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1218-aef6731",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0636-af812d2",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0615-af90a08",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1956-afdbb9c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1647-b028aba",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-2018-b16adab",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0648-b2e7ac9",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1136-b4f2eb4",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-2032-b527bc0",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1829-b55af56",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1653-b62e64f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0622-b72ec06",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1200-b7c0314",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0748-b7c7b77",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1112-b90c221",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1051-b97eac5",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1022-bc8cbaa",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-2003-bd698f9",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1400-bdad901",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0802-be21b27",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1036-be352bc",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0700-bff5400",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0651-c08bcea",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1712-c151460",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1436-c2ede6c",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1156-c7bbf7a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1100-c9d3231",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0905-ca239a6",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0948-ca3e22b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1723-cae8f4e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1748-cd84c08",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1912-cd9996f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-0712-ce51e63",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1724-cfa1f4f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1058-d36b95e",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1632-d40b316",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1331-d76cda7",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0727-d81114a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1912-d8e8e6f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1836-dda6c6a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0731-dea3a4a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1800-dfcf16b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1504-e1e4c88",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-0716-e44673f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0720-e499ea3",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1451-e5949aa",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0854-e874a85",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1524-eb07f54",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1708-edb8ada",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1736-ee88bbb",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-2012-f455c15",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0756-f4d01d3",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1824-f529de5",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Sa-422d808f-A-IB-1448-f60220b",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1000-f6500cf",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1929-f6b2971",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1113-f715a3a",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1941-f7ca9a0",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1414-f8bbe7f",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-1338-fa4c8df",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Su-422d808f-A-IB-1842-fb3ad33",
+        "stop_id": "P-94",
+        "stop_sequence": 71
+      },
+      {
+        "trip_id": "Service_Period-Weekday-422d808f-A-IB-0833-fcd02e5",
+        "stop_id": "P-94",
+        "stop_sequence": 71
       }
     ]
   }

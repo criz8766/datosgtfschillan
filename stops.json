@@ -4194,12 +4194,6 @@
     "stop_lon": -72.072592
   },
   {
-    "stop_id": "P-94",
-    "stop_name": "Av. Andrés Bello esq. UBB",
-    "stop_lat": -36.602139,
-    "stop_lon": -72.07822
-  },
-  {
     "stop_id": "P-50",
     "stop_name": "Arturo Prat esq. 5 De Abril",
     "stop_lat": -36.611366,
@@ -4690,5 +4684,11 @@
     "stop_name": "Barros Arana esq. Los Alerces",
     "stop_lat": -36.627686,
     "stop_lon": -72.100213
+  },
+  {
+    "stop_id": "P-311",
+    "stop_name": "Av. Vicente Mendéz esq. Diego de Almagro",
+    "stop_lat": -36.598059,
+    "stop_lon": -72.088215
   }
 ]
