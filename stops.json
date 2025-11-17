@@ -4690,5 +4690,11 @@
     "stop_name": "Av. Vicente Mendéz esq. Diego de Almagro",
     "stop_lat": -36.598059,
     "stop_lon": -72.088215
+  },
+  {
+    "stop_id": "P-94",
+    "stop_name": "Av. Andrés Bello esq. UBB",
+    "stop_lat": -36.602139,
+    "stop_lon": -72.07822
   }
 ]
