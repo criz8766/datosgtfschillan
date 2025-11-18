@@ -9,15 +9,6 @@
     "imagenNombre": "catedral_chillan.jpg"
   },
   {
-    "id": 2,
-    "nombre": "Mercado Municipal de Chillán",
-    "direccion": "Maipón 773, Chillán",
-    "latitud": -36.610278,
-    "longitud": -72.101389,
-    "categoria": "Comercio",
-    "imagenNombre": "mercado_chillan.jpg"
-  },
-  {
     "id": 3,
     "nombre": "Teatro Municipal de Chillán",
     "direccion": "18 de Septiembre 590, Chillán",
@@ -36,4 +27,3 @@
     "imagenNombre": "museo_arrau.jpg"
   }
 ]
-
