@@ -1,0 +1,914 @@
+[
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61153432636164,
+    "shape_pt_lon": -72.0994681119919,
+    "shape_pt_sequence": 1
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61125887620022,
+    "shape_pt_lon": -72.09937691688539,
+    "shape_pt_sequence": 2
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.611228748779126,
+    "shape_pt_lon": -72.09918379783632,
+    "shape_pt_sequence": 3
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60983426669403,
+    "shape_pt_lon": -72.09867954254152,
+    "shape_pt_sequence": 4
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.610987728986636,
+    "shape_pt_lon": -72.0939213037491,
+    "shape_pt_sequence": 5
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.602379385415524,
+    "shape_pt_lon": -72.0906436443329,
+    "shape_pt_sequence": 6
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.601725112021164,
+    "shape_pt_lon": -72.09035933017732,
+    "shape_pt_sequence": 7
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.600778127543386,
+    "shape_pt_lon": -72.08978533744813,
+    "shape_pt_sequence": 8
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59948676634003,
+    "shape_pt_lon": -72.08897531032564,
+    "shape_pt_sequence": 9
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59794571368276,
+    "shape_pt_lon": -72.08808481693269,
+    "shape_pt_sequence": 10
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59717517581124,
+    "shape_pt_lon": -72.08765566349031,
+    "shape_pt_sequence": 11
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59637449702134,
+    "shape_pt_lon": -72.08715140819551,
+    "shape_pt_sequence": 12
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59525094987109,
+    "shape_pt_lon": -72.08655059337617,
+    "shape_pt_sequence": 13
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59324918739876,
+    "shape_pt_lon": -72.08542406558992,
+    "shape_pt_sequence": 14
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59222460931136,
+    "shape_pt_lon": -72.08486080169679,
+    "shape_pt_sequence": 15
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59160038490055,
+    "shape_pt_lon": -72.0843940973282,
+    "shape_pt_sequence": 16
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59103642609136,
+    "shape_pt_lon": -72.08413124084474,
+    "shape_pt_sequence": 17
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.5903734463433,
+    "shape_pt_lon": -72.08364844322206,
+    "shape_pt_sequence": 18
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.5897793427695,
+    "shape_pt_lon": -72.0829886198044,
+    "shape_pt_sequence": 19
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58940479686166,
+    "shape_pt_lon": -72.08240926265718,
+    "shape_pt_sequence": 20
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58909052130664,
+    "shape_pt_lon": -72.08166897296907,
+    "shape_pt_sequence": 21
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58885373750891,
+    "shape_pt_lon": -72.0806121826172,
+    "shape_pt_sequence": 22
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58884082200815,
+    "shape_pt_lon": -72.07995772361757,
+    "shape_pt_sequence": 23
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.589030249136144,
+    "shape_pt_lon": -72.07849860191347,
+    "shape_pt_sequence": 24
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58976642742364,
+    "shape_pt_lon": -72.07400858402254,
+    "shape_pt_sequence": 25
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.590382056506414,
+    "shape_pt_lon": -72.06994235515596,
+    "shape_pt_sequence": 26
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.590433717464826,
+    "shape_pt_lon": -72.06899821758272,
+    "shape_pt_sequence": 27
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59020554797085,
+    "shape_pt_lon": -72.06732451915742,
+    "shape_pt_sequence": 28
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.589938631857585,
+    "shape_pt_lon": -72.06551134586336,
+    "shape_pt_sequence": 29
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58965449433552,
+    "shape_pt_lon": -72.0636284351349,
+    "shape_pt_sequence": 30
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58921106550641,
+    "shape_pt_lon": -72.0605653524399,
+    "shape_pt_sequence": 31
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58891831498034,
+    "shape_pt_lon": -72.05855369567873,
+    "shape_pt_sequence": 32
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.5886944461817,
+    "shape_pt_lon": -72.05660641193391,
+    "shape_pt_sequence": 33
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58859542708289,
+    "shape_pt_lon": -72.05294251441957,
+    "shape_pt_sequence": 34
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.588526544156615,
+    "shape_pt_lon": -72.04967558383943,
+    "shape_pt_sequence": 35
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58845335598008,
+    "shape_pt_lon": -72.0459419488907,
+    "shape_pt_sequence": 36
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58842321965192,
+    "shape_pt_lon": -72.04477787017824,
+    "shape_pt_sequence": 37
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58843613522256,
+    "shape_pt_lon": -72.04415559768678,
+    "shape_pt_sequence": 38
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58848349229646,
+    "shape_pt_lon": -72.04373717308046,
+    "shape_pt_sequence": 39
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.588905399490365,
+    "shape_pt_lon": -72.04183816909791,
+    "shape_pt_sequence": 40
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.589088356510345,
+    "shape_pt_lon": -72.04099059104921,
+    "shape_pt_sequence": 41
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58923042644427,
+    "shape_pt_lon": -72.04032003879549,
+    "shape_pt_sequence": 42
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.58974704218127,
+    "shape_pt_lon": -72.03788995742799,
+    "shape_pt_sequence": 43
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.5898503649137,
+    "shape_pt_lon": -72.0371335744858,
+    "shape_pt_sequence": 44
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.589949382402466,
+    "shape_pt_lon": -72.03595340251924,
+    "shape_pt_sequence": 45
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59004409466417,
+    "shape_pt_lon": -72.03421533107759,
+    "shape_pt_sequence": 46
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59020338320582,
+    "shape_pt_lon": -72.03137755393983,
+    "shape_pt_sequence": 47
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59031531549783,
+    "shape_pt_lon": -72.02897965908052,
+    "shape_pt_sequence": 48
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.590397112070136,
+    "shape_pt_lon": -72.02798187732698,
+    "shape_pt_sequence": 49
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59050043393227,
+    "shape_pt_lon": -72.02640473842622,
+    "shape_pt_sequence": 50
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59053487452222,
+    "shape_pt_lon": -72.0261311531067,
+    "shape_pt_sequence": 51
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59125381832869,
+    "shape_pt_lon": -72.02304124832155,
+    "shape_pt_sequence": 52
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59257975700339,
+    "shape_pt_lon": -72.01769292354585,
+    "shape_pt_sequence": 53
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59367320876969,
+    "shape_pt_lon": -72.01325118541719,
+    "shape_pt_sequence": 54
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59450404955563,
+    "shape_pt_lon": -72.00987696647645,
+    "shape_pt_sequence": 55
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.595210041949535,
+    "shape_pt_lon": -72.00711429119112,
+    "shape_pt_sequence": 56
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.595537206966185,
+    "shape_pt_lon": -72.005832195282,
+    "shape_pt_sequence": 57
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59644981783884,
+    "shape_pt_lon": -72.00206100940706,
+    "shape_pt_sequence": 58
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.597538910083394,
+    "shape_pt_lon": -71.99759781360628,
+    "shape_pt_sequence": 59
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.598494543579825,
+    "shape_pt_lon": -71.99359595775606,
+    "shape_pt_sequence": 60
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.599204804051084,
+    "shape_pt_lon": -71.99068844318391,
+    "shape_pt_sequence": 61
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.599420033205966,
+    "shape_pt_lon": -71.98959410190584,
+    "shape_pt_sequence": 62
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.59987631702865,
+    "shape_pt_lon": -71.98648273944856,
+    "shape_pt_sequence": 63
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60036703435444,
+    "shape_pt_lon": -71.98322117328645,
+    "shape_pt_sequence": 64
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.600857748558965,
+    "shape_pt_lon": -71.97994351387025,
+    "shape_pt_sequence": 65
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60140011325878,
+    "shape_pt_lon": -71.97642445564271,
+    "shape_pt_sequence": 66
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60195969188905,
+    "shape_pt_lon": -71.97272837162019,
+    "shape_pt_sequence": 67
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60258813689623,
+    "shape_pt_lon": -71.96851730346681,
+    "shape_pt_sequence": 68
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.603065923852604,
+    "shape_pt_lon": -71.9653630256653,
+    "shape_pt_sequence": 69
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60326392478706,
+    "shape_pt_lon": -71.96409165859224,
+    "shape_pt_sequence": 70
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.603763229234545,
+    "shape_pt_lon": -71.96075499057771,
+    "shape_pt_sequence": 71
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60425822614314,
+    "shape_pt_lon": -71.95742368698122,
+    "shape_pt_sequence": 72
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.604469136904335,
+    "shape_pt_lon": -71.95600211620332,
+    "shape_pt_sequence": 73
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60460256994523,
+    "shape_pt_lon": -71.95506334304811,
+    "shape_pt_sequence": 74
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60463700424088,
+    "shape_pt_lon": -71.9547361135483,
+    "shape_pt_sequence": 75
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6046111785206,
+    "shape_pt_lon": -71.95400118827821,
+    "shape_pt_sequence": 76
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.604486354083846,
+    "shape_pt_lon": -71.95316433906557,
+    "shape_pt_sequence": 77
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60398274999468,
+    "shape_pt_lon": -71.94988667964937,
+    "shape_pt_sequence": 78
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.603582446963,
+    "shape_pt_lon": -71.9471561908722,
+    "shape_pt_sequence": 79
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.603418881685585,
+    "shape_pt_lon": -71.94615304470064,
+    "shape_pt_sequence": 80
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6034317947464,
+    "shape_pt_lon": -71.94574534893037,
+    "shape_pt_sequence": 81
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.603461925213246,
+    "shape_pt_lon": -71.9454449415207,
+    "shape_pt_sequence": 82
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60355662088962,
+    "shape_pt_lon": -71.94506943225862,
+    "shape_pt_sequence": 83
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60418935719824,
+    "shape_pt_lon": -71.94361567497255,
+    "shape_pt_sequence": 84
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60564850481812,
+    "shape_pt_lon": -71.94038093090059,
+    "shape_pt_sequence": 85
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60694406703308,
+    "shape_pt_lon": -71.93747878074647,
+    "shape_pt_sequence": 86
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60837733808216,
+    "shape_pt_lon": -71.93427622318269,
+    "shape_pt_sequence": 87
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60881204866153,
+    "shape_pt_lon": -71.93331062793733,
+    "shape_pt_sequence": 88
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60895408228016,
+    "shape_pt_lon": -71.93292438983919,
+    "shape_pt_sequence": 89
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6091520681,
+    "shape_pt_lon": -71.93223774433137,
+    "shape_pt_sequence": 90
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60927258095886,
+    "shape_pt_lon": -71.93167984485628,
+    "shape_pt_sequence": 91
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.60998704618315,
+    "shape_pt_lon": -71.92808568477632,
+    "shape_pt_sequence": 92
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.610619729741394,
+    "shape_pt_lon": -71.92496895790102,
+    "shape_pt_sequence": 93
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61074454425217,
+    "shape_pt_lon": -71.92432522773744,
+    "shape_pt_sequence": 94
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.610860750684026,
+    "shape_pt_lon": -71.9237780570984,
+    "shape_pt_sequence": 95
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61093391760683,
+    "shape_pt_lon": -71.92335426807405,
+    "shape_pt_sequence": 96
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.611454691934405,
+    "shape_pt_lon": -71.91936314105989,
+    "shape_pt_sequence": 97
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61207875571116,
+    "shape_pt_lon": -71.91412746906282,
+    "shape_pt_sequence": 98
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61243597615196,
+    "shape_pt_lon": -71.91151499748231,
+    "shape_pt_sequence": 99
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6125909146238,
+    "shape_pt_lon": -71.91016852855684,
+    "shape_pt_sequence": 100
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.612586610781534,
+    "shape_pt_lon": -71.90952479839326,
+    "shape_pt_sequence": 101
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61249192619157,
+    "shape_pt_lon": -71.90892398357393,
+    "shape_pt_sequence": 102
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61212609827433,
+    "shape_pt_lon": -71.90757751464845,
+    "shape_pt_sequence": 103
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61054270777441,
+    "shape_pt_lon": -71.9018054008484,
+    "shape_pt_sequence": 104
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61034472552457,
+    "shape_pt_lon": -71.90086126327516,
+    "shape_pt_sequence": 105
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61031890171542,
+    "shape_pt_lon": -71.89999222755434,
+    "shape_pt_sequence": 106
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.610516884031505,
+    "shape_pt_lon": -71.89873695373537,
+    "shape_pt_sequence": 107
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6130647849989,
+    "shape_pt_lon": -71.89297556877138,
+    "shape_pt_sequence": 108
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61561260178255,
+    "shape_pt_lon": -71.88724637031557,
+    "shape_pt_sequence": 109
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.61947720369803,
+    "shape_pt_lon": -71.87855601310731,
+    "shape_pt_sequence": 110
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62123299446526,
+    "shape_pt_lon": -71.87460780143739,
+    "shape_pt_sequence": 111
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62153422905831,
+    "shape_pt_lon": -71.87357783317567,
+    "shape_pt_sequence": 112
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62281661458217,
+    "shape_pt_lon": -71.86723709106447,
+    "shape_pt_sequence": 113
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6231694820238,
+    "shape_pt_lon": -71.86169028282167,
+    "shape_pt_sequence": 114
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62368587049018,
+    "shape_pt_lon": -71.85328960418703,
+    "shape_pt_sequence": 115
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62376332846176,
+    "shape_pt_lon": -71.85228109359743,
+    "shape_pt_sequence": 116
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62388381848509,
+    "shape_pt_lon": -71.85176610946657,
+    "shape_pt_sequence": 117
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.625785814614176,
+    "shape_pt_lon": -71.84660553932191,
+    "shape_pt_sequence": 118
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.626044000515975,
+    "shape_pt_lon": -71.84584379196168,
+    "shape_pt_sequence": 119
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62721443242355,
+    "shape_pt_lon": -71.8420457839966,
+    "shape_pt_sequence": 120
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62769636980755,
+    "shape_pt_lon": -71.84067249298097,
+    "shape_pt_sequence": 121
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.628935623528385,
+    "shape_pt_lon": -71.84090852737428,
+    "shape_pt_sequence": 122
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6299080795081,
+    "shape_pt_lon": -71.82976126670839,
+    "shape_pt_sequence": 123
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.63242952325185,
+    "shape_pt_lon": -71.83028697967531,
+    "shape_pt_sequence": 124
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.63252418335552,
+    "shape_pt_lon": -71.82919263839723,
+    "shape_pt_sequence": 125
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6325932817413,
+    "shape_pt_lon": -71.82895123958589,
+    "shape_pt_sequence": 126
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.632791206859444,
+    "shape_pt_lon": -71.8286454677582,
+    "shape_pt_sequence": 127
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.632748179703086,
+    "shape_pt_lon": -71.82772278785707,
+    "shape_pt_sequence": 128
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.63272236339776,
+    "shape_pt_lon": -71.82744383811952,
+    "shape_pt_sequence": 129
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.63276108785253,
+    "shape_pt_lon": -71.82617783546449,
+    "shape_pt_sequence": 130
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6327826014301,
+    "shape_pt_lon": -71.8260169029236,
+    "shape_pt_sequence": 131
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.63298482876568,
+    "shape_pt_lon": -71.82572185993196,
+    "shape_pt_sequence": 132
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.63313972594038,
+    "shape_pt_lon": -71.82381749153139,
+    "shape_pt_sequence": 133
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.63165097909857,
+    "shape_pt_lon": -71.82458996772768,
+    "shape_pt_sequence": 134
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.63153910678676,
+    "shape_pt_lon": -71.82589352130891,
+    "shape_pt_sequence": 135
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.63150468450428,
+    "shape_pt_lon": -71.82624220848085,
+    "shape_pt_sequence": 136
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6314401426832,
+    "shape_pt_lon": -71.826628446579,
+    "shape_pt_sequence": 137
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.631397114772476,
+    "shape_pt_lon": -71.82699322700502,
+    "shape_pt_sequence": 138
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.63126372809647,
+    "shape_pt_lon": -71.82838797569276,
+    "shape_pt_sequence": 139
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.630020208943264,
+    "shape_pt_lon": -71.8281251192093,
+    "shape_pt_sequence": 140
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62750729238705,
+    "shape_pt_lon": -71.82759404182436,
+    "shape_pt_sequence": 141
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62736098992656,
+    "shape_pt_lon": -71.82914972305299,
+    "shape_pt_sequence": 142
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.621603337297636,
+    "shape_pt_lon": -71.82786762714387,
+    "shape_pt_sequence": 143
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62134513652143,
+    "shape_pt_lon": -71.82791054248811,
+    "shape_pt_sequence": 144
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62158612393947,
+    "shape_pt_lon": -71.82947158813478,
+    "shape_pt_sequence": 145
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62215416272979,
+    "shape_pt_lon": -71.82962715625764,
+    "shape_pt_sequence": 146
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62211973625557,
+    "shape_pt_lon": -71.83045864105226,
+    "shape_pt_sequence": 147
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.622089613078046,
+    "shape_pt_lon": -71.83073759078981,
+    "shape_pt_sequence": 148
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62205948988874,
+    "shape_pt_lon": -71.83120965957643,
+    "shape_pt_sequence": 149
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.62203797331775,
+    "shape_pt_lon": -71.83148860931398,
+    "shape_pt_sequence": 150
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.621887357152595,
+    "shape_pt_lon": -71.83211624622346,
+    "shape_pt_sequence": 151
+  },
+  {
+    "shape_id": "Chillan-coihueco",
+    "shape_pt_lat": -36.6218055939683,
+    "shape_pt_lon": -71.8328619003296,
+    "shape_pt_sequence": 152
+  }
+]
