@@ -4696,5 +4696,11 @@
     "stop_name": "Av. Andrés Bello esq. UBB",
     "stop_lat": -36.602139,
     "stop_lon": -72.07822
+  },
+  {
+    "stop_id": "P-1766159598707",
+    "stop_name": "Nuevo Paradero (8707)",
+    "stop_lat": -36.59591520432383,
+    "stop_lon": -72.13112354278566
   }
 ]
